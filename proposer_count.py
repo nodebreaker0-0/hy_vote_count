@@ -1,11 +1,13 @@
 import json
 from collections import defaultdict
 
+date_input = input("Enter the date (e.g. 20241204)")
 # Prompt user for the last part of the path (hour)
 hour_input = input("Enter the hour (e.g., 12): ")
 
 # Construct the file path dynamically
-log_file_path_latest = f'/data/hl/data/node_logs/consensus/hourly/20241202/{hour_input}'
+log_file_path_latest = f'/data/hl/data/node_logs/consensus/hourly/{date_input}/{hour_input}'
+
 
 # Reading the new log file
 try:
