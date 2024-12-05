@@ -1,0 +1,16 @@
+{
+    'round': 179079266, 'timeouts': 
+    [
+        {'validator': '0x0569..d45d', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0x1720..30b3', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0x3c83..1a76', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0x4700..ea9b', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0x4dbf..aef4', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0x9600..bb93', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0xc257..c8e8', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0xd54a..a1dc', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0xef22..d5ac', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0xf4db..520f', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}, 
+        {'validator': '0xf587..6784', 'round': 179079266, 'hardfork': {'version': 265, 'round': 178646610}, 'qc_round': 179079265}
+        ]
+}
